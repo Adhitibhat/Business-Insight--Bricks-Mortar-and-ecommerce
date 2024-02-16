@@ -144,7 +144,7 @@ Dimension table : It provides the context and background information for the mea
    
 - date,month
 
-- fiscal year -
+- fiscal year - A fiscal year is a 12-month period that a company uses for financial planning and reporting. It may not necessarily match the calendar year.
 
 - ytd/ytg
 
@@ -166,5 +166,21 @@ gdb056 :
 
 5) Post_invoice_deductions : Post invoice deductions and other deductions details
 
+Note : The data records were imported from SQL database . Additionaly few of the excel/CSV files were imported later.
 
 
+## Data Modeling 
+
+Data modeling is the process of representing relationship between the tables .
+
+Snowflake scheme is used as a method for data modeling in this project.In a snowflake schema, the data is organized into a hierarchy of multiple related tables, resembling the shape of a snowflake when visualized. It involves defining and organizing data elements, their attributes, and the relationships between them to create a blueprint for how data should be stored, accessed, and managed .
+
+The main idea behind snowflake modeling is to normalize the data by breaking it down into smaller, more manageable tables with fewer redundant data, reducing data duplication and improving data integrity.
+
+
+![data_model](https://github.com/Adhitibhat/Business-Insight--Bricks-Mortar-and-ecommerce/assets/110439208/ac7c0a60-9954-437f-bdfe-69900f830ed5)
+
+## Project Outcome :
+
+
+By utilizing this report, stakeholders gain valuable insights to make informed decisions across different departments. Whether it's optimizing finances, boosting sales, refining marketing strategies or enhancing supply chain efficiency, the Power BI dashboard equips decision-makers with the tools to drive effective and strategic actions ensuring AtliQ Hardware stays on the path of sustained growth and success.
