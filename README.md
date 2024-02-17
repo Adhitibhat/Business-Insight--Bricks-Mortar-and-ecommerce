@@ -5,7 +5,7 @@ This Power BI project focuses on analyzing in-store and online sales growth of t
 #### To interact with the Dashboard follow the link below:
 https://app.powerbi.com/view?r=eyJrIjoiMTIyN2Q1OTYtZDdjZC00NmI5LTgwZTMtM2FiZjkxY2QwMmQxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
-
+#### Project Video : https://drive.google.com/file/d/112fyIUOdhP-nfYg38rJRdUT_exJqrpSn/view?usp=sharing
 ## What I learnt from this Project - Key Learnings :
 
 
